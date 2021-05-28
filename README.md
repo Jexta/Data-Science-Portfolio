@@ -11,7 +11,7 @@ The flow of the project is as below:
 
 >Variable Encoding
 
->Building Model
+>Model Building
 
 >Evaluating Model Performance
 
